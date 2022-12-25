@@ -1,6 +1,6 @@
 # Homework: Git
 
-### Pre-requisitos
+### Pre-requisitos 1
 
 * Crear una cuenta en [Github.com](https://www.github.com/).
 * Si usas una computadora con Windows, puedes instalar la terminal de comandos _git-bash_ haciendo click [acá](https://git-for-windows.github.io/).
